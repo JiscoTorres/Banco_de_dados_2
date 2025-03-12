@@ -1,1 +1,2 @@
-# Aula_Git_Banco_de_dados_2
+# Matéria: Banco de Dados 2
+## - Aluno: João Francisco Torres.
